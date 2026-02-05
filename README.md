@@ -171,3 +171,8 @@ See [LICENSE](LICENSE) file for details.
 
 Built on the M5Stack platform with MPU9250 IMU sensor integration and Mahony AHRS filter implementation.
 
+
+
+# Non professonal notes 
+
+wow 6 years later and my code ql has gotten so much better 🥳 yay! 🥳
